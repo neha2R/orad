@@ -113,7 +113,7 @@ trait LeadRegistrationTrait
         $this->edulevel = '';
         $this->gender = '';
         $this->comments = '';
-        $this->fileimport = '';
+    // ///// //  $this->fileimport = '';
         $this->errormessage = '';
         $this->errormessages = [];
         $this->iteration = '';
